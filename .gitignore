@@ -1,2 +1,2 @@
 #avoid files marked .log
-*.log
+*log
